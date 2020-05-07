@@ -1,13 +1,13 @@
-[![GitHub Actions status | e2e-boilerplate/testcafe-es-modules](https://github.com/e2e-boilerplate/testcafe-es-modules/workflows/testcafe-es-modules/badge.svg)](https://github.com/e2e-boilerplate/testcafe-es-modules/actions?workflow=testcafe-es-modules) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Buy Me A Coffee](https://img.shields.io/badge/buy-me%20coffee-orange)](https://www.buymeacoffee.com/xgirma)
+[![GitHub Actions status | e2e-boilerplate/testcafe-es-modules-assert](https://github.com/e2e-boilerplate/testcafe-es-modules-assert/workflows/testcafe-es-modules-assert/badge.svg)](https://github.com/e2e-boilerplate/testcafe-es-modules-assert/actions?workflow=testcafe-es-modules-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Buy Me A Coffee](https://img.shields.io/badge/buy-me%20coffee-orange)](https://www.buymeacoffee.com/xgirma)
 
 # TestCafé Boilerplate
 
-TestCafé end-to-end test automation boilerplate, Using ES Modules.
+TestCafé end-to-end test automation boilerplate, Using ES Modules and Assert.
 
 ## Getting Started
 
-    	1. git clone git@github.com:e2e-boilerplate/testcafe-es-modules.git
-    	2. cd testcafe-es-modules
+    	1. git clone git@github.com:e2e-boilerplate/testcafe-es-modules-assert.git
+    	2. cd testcafe-es-modules-assert
     	3. npm install
     	4. npm run test
 

@@ -27,13 +27,14 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
+    "es modules",
+    "testcafe",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
+    "boilerplate",
     "integration test",
-    "testcafe"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
